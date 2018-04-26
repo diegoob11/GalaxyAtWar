@@ -1,5 +1,5 @@
-# GalaxyOnFire
-This repository contains the code for a third-person space shooter engine based on the Star Wars universe. It was made as a University project and was never intended to be monetized. 
+# Galaxy At War
+This repository contains the code for a third-person space shooter engine based on the Star Wars universe. It was made as a University project and was never intended to be monetized.
 [Link to video!](https://youtu.be/j3PhbyCIk6g)
 
 ## Content 
@@ -25,3 +25,5 @@ Move -> arrow keys
 Fire -> space keys
 Change view -> P key
 Change weapon -> numbers 1 to 4
+
+_Copyright Diego A. Bellino González_
